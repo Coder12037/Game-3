@@ -1,0 +1,37 @@
+    body {
+    background-color: rgba(223, 79, 79, 0.89);
+  }
+
+h1{
+    text-decoration: rgb(78, 112, 51);
+}
+h2{
+    text-decoration: rgb(63, 110, 163);
+}
+h3{
+    text-decoration: rgb(165, 58, 58);
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; 
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+ 
+  .closebtn:hover {
+    color: black;
+  }
